@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sweeft-Project/static/css/main.1b3572ac.css",
+    "main.js": "/Sweeft-Project/static/js/main.6965aebc.js",
+    "static/js/787.97082677.chunk.js": "/Sweeft-Project/static/js/787.97082677.chunk.js",
+    "index.html": "/Sweeft-Project/index.html",
+    "main.1b3572ac.css.map": "/Sweeft-Project/static/css/main.1b3572ac.css.map",
+    "main.6965aebc.js.map": "/Sweeft-Project/static/js/main.6965aebc.js.map",
+    "787.97082677.chunk.js.map": "/Sweeft-Project/static/js/787.97082677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b3572ac.css",
+    "static/js/main.6965aebc.js"
+  ]
+}
