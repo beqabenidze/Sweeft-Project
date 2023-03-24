@@ -29,7 +29,7 @@ function App() {
 
   const fetchItems = () => {
     fetch(
-      `http://sweeftdigital-intern.eu-central-1.elasticbeanstalk.com/user/${page}/10`
+      `http://sweeftdigital-intern.eu-central-1.elasticbeanstalk.com/user/${page}/1`
     )
       .then((response) => response.json())
       .then((data) => {
@@ -124,9 +124,6 @@ function App() {
           ) : (
             <></>
           )}
-
-          <div className="info"></div>
-          <div className="address"></div>
         </header>
       </div>
 
